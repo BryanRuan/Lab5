@@ -1,0 +1,43 @@
+body{
+  background-color: blue;
+}
+
+table{
+  text-align: center;
+  width:100%;
+}
+
+td{
+  font-size: 20px;
+  border: 2px solid;
+  border-color: black;
+}
+
+h2{
+font-family: Georgia;
+font-size: 30px;
+font-style: italic;
+color: red;
+}
+
+img{
+  height:150px;
+  width:150px;
+}
+
+h1{
+  text-align: center;
+  font-family: Times;
+  font-size: 45px;
+  color: red;
+}
+
+p{
+  font-size:20px;
+  color: green;
+}
+
+h3{
+  font-family: Georgia;
+  color: black;
+}
